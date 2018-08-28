@@ -15,4 +15,8 @@ orderbook
   ./gradlew idea
   ```
 
-
+Future Improvements
+======
+- More test cases coverage as time goes on;
+- There should be a queue of executions retrievable from the order book.
+- The 'synchronized' methods could be replaced by re-entrant read/write locks for better performance under concurrency.

@@ -1,4 +1,5 @@
 build/
+out/
 OrderBook.iml
 OrderBook.ipr
 OrderBook.iws
